@@ -1,0 +1,26 @@
+Package: pkgcheckEditorExtra
+Title: Extra rOpenSci Package Checks for Editors
+Version: 0.0.1
+Authors@R: c(
+    person("Mark", "Padgham", , "mark.padgham@email.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-2172-5265"))
+  )
+Description: The main 'pkgcheck' package checks whether a package is ready for submission to rOpenSci's
+    peer review system. This package contains additional checks for our editors.
+License: GPL-3
+URL: https://docs.ropensci.org/pkgcheck-editor-extra/,
+    https://github.com/ropensci-review-tools/pkgcheck-editor-extra
+BugReports: https://github.com/ropensci-review-tools/pkgcheck-editor-extra/issues
+Depends: 
+    R (>= 3.5.0)
+Remotes:
+    ropensci-review-tools/pkgstats,
+    ropensci-review-tools/pkgcheck,
+    ropensci-review-tools/srr
+Config/testthat/edition: 3
+Encoding: UTF-8
+Language: en-GB
+LazyData: true
+NeedsCompilation: yes
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
