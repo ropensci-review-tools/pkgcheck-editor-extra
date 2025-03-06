@@ -3,7 +3,7 @@
 <!-- badges: start -->
 
 [![R build
-status](https://github.com/ropensci-review-tools/pkgcheck-editor-extra/workflows/R-CMD-check/badge.svg)](https://github.com/ropensci-review-tools/pkgcheck-editor-extra/actions?query=workflow%3AR-CMD-check)
+status](https://github.com/ropensci-review-tools/pkgcheck-editor-extra/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ropensci-review-tools/pkgcheck-editor-extra/actions?query=workflow%3AR-CMD-check.yaml)
 [![codecov](https://codecov.io/gh/ropensci-review-tools/pkgcheck-editor-extra/branch/main/graph/badge.svg)](https://codecov.io/gh/ropensci-review-tools/pkgcheck-editor-extra)
 [![Project Status:
 Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
