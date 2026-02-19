@@ -1,6 +1,6 @@
 Package: pkgcheckEditorExtra
 Title: Extra rOpenSci Package Checks for Editors
-Version: 0.0.1.003
+Version: 0.0.1.004
 Authors@R: c(
     person("Mark", "Padgham", , "mark.padgham@email.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-2172-5265"))
@@ -18,6 +18,7 @@ Remotes:
     ropensci-review-tools/pkgcheck,
     ropensci-review-tools/srr
 Config/testthat/edition: 3
+Config/ropensci/maintainer: staff
 Encoding: UTF-8
 Language: en-GB
 LazyData: true
